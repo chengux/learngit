@@ -1,4 +1,5 @@
 Git is a version control system
 Git is free sofrware
 Git is a distributed version control system.
-Git is asadsa
+Git is asadsad
+Git has a mutable index called stage
